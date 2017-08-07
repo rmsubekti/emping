@@ -16,7 +16,7 @@ defaults:
     layout: post
     permalink: "/blog/:title"
 email: your-email@domain.com
-description: UY TÍN, NHANH GỌN,XÉT DUYỆT TRONG NGÀY
+description: "**UY TÍN, NHANH GỌN,XÉT DUYỆT TRONG NGÀY**"
 baseurl: vaytiennhanh24h.xyz
 url: http://example.com
 twitter_username: jekyllrb
