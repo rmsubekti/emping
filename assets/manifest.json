@@ -1,6 +1,7 @@
 ---
-permalink: /manifest.json
+permalink: "/manifest.json"
 ---
+
 {
 	"lang": "id",
 	"dir": "ltr",
