@@ -5,9 +5,12 @@ avatar: true
 layout: default
 ---
 
+
+***
 ##                                                  [🚀 => CLICK VÀO ĐÂY VÀ ĐIỀN THÔNG TIN ĐĂNG KÝ <=](https://doctordong.vn)
-Dịch vụ cho vay tiền có ngay trong ngày từ:\\
-   1.000.000đ - 10.000.000đ\\
+***
+{c:red}                Dịch vụ cho vay tiền có ngay trong ngày từ:{/c}\\
+{c:red}                          1.000.000đ - 10.000.000đ{/c}             \\
 Thủ tục xét duyệt đơn giản, nhanh chóng tròng vòng 24 đến 48 giờ\\
 Lãi suất minh bạch, công khai tư vấn trực tiếp\\
 Chỉ cần bạn nhấp vào đăng ký hoàn thành thông tin, hồ sơ sẽ được duyệt trong thời gian nhanh nhất!\\
