@@ -18,7 +18,7 @@ defaults:
 email: your-email@domain.com
 description: "**UY TÍN, NHANH GỌN,XÉT DUYỆT TRONG NGÀY**"
 baseurl: vaytiennhanh24h.xyz
-url: http://example.com
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 GoogleAnalytics: UA-xxxxxx-x
