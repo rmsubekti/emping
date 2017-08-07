@@ -1,47 +1,50 @@
-# Site settings
-title: Emping
+---
+title: CHO VAY TÍN CHẤP
+timezone: Asia/Bangkok
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/blog/:title"
 email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Let's Eat!!.
-baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
-url: "http://example.com" # the base hostname & protocol for your site
+description: "**UY TÍN, NHANH GỌN,XÉT DUYỆT TRONG NGÀY**"
+baseurl: vaytiennhanh24h.xyz
+url: 
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: jekyll
 GoogleAnalytics: UA-xxxxxx-x
-
 twitter:
   username: rmsubekti
 facebook:
   app_id: 1234567
   publisher: 1234567
-
 sass:
-    style: compressed
-
-# Build settings
+  style: compressed
 markdown: kramdown
 kramdown:
   parse_block_html: true
-
 gems:
-  - jekyll-redirect-from
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jemoji
-
-defaults:
-    - {scope: {type: posts}, values: {layout: post, permalink: '/blog/:title'}}
-
+- jekyll-redirect-from
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-feed
+- jemoji
 include:
-  - _pages
-
+- _pages
 exclude:
-  - CNAME
-  - README.md
-  - Gemfile
-  - Gemfile.lock
-
+- CNAME
+- README.md
+- Gemfile
+- Gemfile.lock
 paginate: 12
-paginate_path: '/blog/:num'
+paginate_path: "/blog/:num"

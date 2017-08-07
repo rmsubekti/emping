@@ -1,12 +1,19 @@
 ---
-layout: default
+title: Vay tiền nhanh
+permalink: "/"
 avatar: true
-permalink: /
----
-## 🚀 Hello World
-You can use this page to showcase your work, portfolio/project, your Latest post {% for post in site.posts limit: 1 %}<a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>{% endfor %} or another stuff that you love to share to the world.
-
+layout: default
 ---
 
-## 🅿️ Edit This Page
-You’ll find this page in your `_pages` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+***
+##                                                  [🚀 => CLICK VÀO ĐÂY VÀ ĐIỀN THÔNG TIN ĐĂNG KÝ <=](https://doctordong.vn)
+***
+{c:red}                Dịch vụ cho vay tiền có ngay trong ngày từ:{/c}\\
+{c:red}                          1.000.000đ - 10.000.000đ{/c}             \\
+Thủ tục xét duyệt đơn giản, nhanh chóng tròng vòng 24 đến 48 giờ\\
+Lãi suất minh bạch, công khai tư vấn trực tiếp\\
+Chỉ cần bạn nhấp vào đăng ký hoàn thành thông tin, hồ sơ sẽ được duyệt trong thời gian nhanh nhất!\\
+=> Sau khi hoàn tất thông tin bạn sẽ được tư vấn viên gọi đến tư vấn trực tiếp về các khoản vay cũng như cách thức vay như thế nào rồi bạn mới quyết định có vay hay không.\\
+=> Vì vậy sau khi đăng ký bạn vui lòng giữ máy để không bỏ lỡ cuộc gọi từ chúng tôi.\\
+Chân thành cảm ơn bạn đã tin tưởng!\\

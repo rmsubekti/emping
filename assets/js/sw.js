@@ -1,6 +1,7 @@
 ---
-permalink: /sw.js
+permalink: "/sw.js"
 ---
+
 var CACHE_NAME = '{{ site.time | date: '%Y%m%d%H%M%S' }}';
 
 self.addEventListener('install',event => {
