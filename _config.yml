@@ -1,6 +1,6 @@
 ---
-title: Emping
-timezone: UTC
+title: CHO VAY TÍN CHẤP
+timezone: Asia/Bangkok
 collections:
   posts:
     title: Posts
@@ -16,9 +16,7 @@ defaults:
     layout: post
     permalink: "/blog/:title"
 email: your-email@domain.com
-description: 'Let''s Eat!!.
-
-'
+description: UY TÍN, NHANH GỌN,XÉT DUYỆT TRONG NGÀY
 baseurl: vaytiennhanh24h.xyz
 url: http://example.com
 twitter_username: jekyllrb
