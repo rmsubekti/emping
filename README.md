@@ -8,10 +8,4 @@
 - js framework
 - python, ruby..
 
-```
-git clone git@github.com:rmsubekti/emping.git
-cd emping
-bundle install
-bundle exec jekyll s
-License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)
-```
+*License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)*
