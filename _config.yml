@@ -3,17 +3,17 @@ title: Emping
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Let's Eat!!.
-baseurl: "/emping" # the subpath of your site, e.g. /blog
-url: "https://bekti.net" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /newpath-for-emping
+url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
-GoogleAnalytics: UA-71848049-1
+GoogleAnalytics: UA-xxxxxx-x
 
 twitter:
   username: rmsubekti
 facebook:
-  app_id: 600141373527242
-  publisher: 198851760537919
+  app_id: 1234567
+  publisher: 1234567
 
 sass:
     style: compressed
