@@ -7,5 +7,3 @@
 - js
 - js framework
 - python, ruby..
-
-*License : [MIT](https://github.com/rmsubekti/emping/blob/master/LICENSE.md)*
