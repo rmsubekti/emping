@@ -1,3 +1,5 @@
+# No Longer Maintained.
+  use this one instead [nangka jekyll theme](https://github.com/rmsubekti/nangka)
 # Emping - Amp theme for jekyll
 An Amphtml theme for your jekyll blog, based on default Jekyll theme. Theme design inspired from the Jekyll [Kactus](https://github.com/nickbalestra/kactus) theme.
 
